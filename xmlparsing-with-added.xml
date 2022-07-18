@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DATA_FETCH>
+  <DATA_ITEM tenant="9920">
+    <RESOURCE>one/9920/otherkey/file1.txt</RESOURCE>
+    <PROPERTIES>
+      <PROPERTY name="isValid" value="true"/>
+      <PROPERTY name="consume" value="false"/>
+    </PROPERTIES>
+  </DATA_ITEM>
+  <DATA_ITEM tenant="9961">
+    <RESOURCE>one/9961/securitykey/file1.txt</RESOURCE>
+    <PROPERTIES>
+      <PROPERTY name="isValid" value="true"/>
+      <PROPERTY name="consume" value="false"/>
+    </PROPERTIES>
+  </DATA_ITEM>
+  <DATA_ITEM tenant="9920">
+    <RESOURCE>one/9920/securitykey/file2.txt</RESOURCE>
+    <PROPERTIES>
+      <PROPERTY name="isValid" value="true"/>
+      <PROPERTY name="consume" value="false"/>
+    </PROPERTIES>
+  </DATA_ITEM>
+  <DATA_ITEM tenant="9920">
+    <RESOURCE>one/9920/securitykey/file1.txt</RESOURCE>
+    <PROPERTIES>
+      <PROPERTY name="isValid" value="true"/>
+      <PROPERTY name="consume" value="false"/>
+    </PROPERTIES>
+  </DATA_ITEM>
+</DATA_FETCH>
